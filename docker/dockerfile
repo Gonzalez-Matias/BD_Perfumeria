@@ -1,0 +1,9 @@
+FROM mariadb:11.3
+
+# Variables de entorno
+ENV MYSQL_ROOT_PASSWORD=perfumeria_root
+ENV MYSQL_DATABASE=perfumeria
+ENV MYSQL_USER=perfumeria_user
+ENV MYSQL_PASSWORD=perfumeria_password
+
+EXPOSE 3306
