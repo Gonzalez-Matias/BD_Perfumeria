@@ -87,21 +87,3 @@ El sistema incluye vistas en MariaDB para facilitar las consultas, como:
 - `vista_movimientos_totales`
 
 Podés consultarlas desde la interfaz de la aplicación.
-
----
-
-## 🤝 Contribuciones
-
-¡Las mejoras y sugerencias son bienvenidas! Abrí un issue o enviá un pull request.
-
----
-
-## 📜 Licencia
-
-Uso académico. Sin licencia específica.
-
----
-
-## 📝 Autor
-
-Desarrollado como parte de un proyecto universitario de base de datos.
